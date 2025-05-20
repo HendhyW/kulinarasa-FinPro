@@ -18,6 +18,7 @@
 
 - 🔒 **Private & Public Recipes**  
   Users can choose to keep their recipes private or share them publicly with the Kulinarasa community.
+  
 # 💻 Tech Stack:
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -26,11 +27,11 @@
 
 **UML**
 
-![picture 1](https://i.imgur.com/ZEMsm2h.png)
+![picture 3](https://i.imgur.com/5TkEd31.png) 
 
 **ERD**
 
-![picture 3](https://i.imgur.com/5TkEd31.png)  
+![picture 1](https://i.imgur.com/ZEMsm2h.png)
 
 **Flowchart**
 (belum)
